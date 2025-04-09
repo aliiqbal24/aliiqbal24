@@ -2,7 +2,7 @@
 
 My name is Ali Iqbal, I'm a fullstack developer interested in all things Software Engineering
 
-- 🔭 I’m currently working on a Fullstack react app for the University of Calgary and their 35000+ students with my team at Anovus.ca
+- 🔭 I’m currently working as a software engineering intern with my team at Anovus, where I build all types of apps
 - 🌱 Also am a Computer Co-op software student at the university of Alberta
 - 💬 Ask me about my Resume projects [here], or any of my work
 - 👯 I’m looking to collaborate on any kind of software that will make a positive impact in people's lives
