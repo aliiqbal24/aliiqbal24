@@ -3,7 +3,7 @@
 My name is Ali Iqbal, I'm a Software engineer interested in 
 
 - 🔭 I’m currently working as a software development intern with my team at Ultracoustics where I work on some next level technology
-- 🌱 Also am a Computer Co-op software student at the university of Alberta
+- 🌱 Also am a Coop Software Engineering student at the university of Alberta
 - 💬 Ask me about my Skills, portfolio or my internships and project experience
 - 👯 I’m looking to collaborate on any kind of software that will make a positive impact in people's lives
 - 
