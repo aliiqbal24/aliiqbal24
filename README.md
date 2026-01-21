@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ali Iqbal, I'm a Software engineer who likes to solve hard problems
+My name is Ali Iqbal, I'm an engineer who likes to solve hard problems
 
 - 🔭 I’m currently working as intern and building my experience in the industy
 - 🌱 Also am a Coop Software Engineering student at the university of Alberta
