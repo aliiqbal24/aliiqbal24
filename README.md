@@ -9,8 +9,6 @@ My name is Ali Iqbal, I'm an engineer who likes to solve hard problems
 - 💬 Ask me about my Skills, portfolio or my internships and project experience
 - 
 -
-- checkout my portfolio at: https://aliiqbal.vercel.app/
--
 - 📫 How to reach me: ali.j.iqbal24@gmail.com 
 <!--
 **aliiqbal24/aliiqbal24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
