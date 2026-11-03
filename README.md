@@ -10,7 +10,7 @@ Sometimes that means a neural network steering a spaceship. Sometimes it's a wor
 | --- | --- | --- |
 | **ZecAgent** | How can an agent prepare a payment while the user retains control? | [Policy-gated wallet and MCP tools](https://github.com/aliiqbal24/ZecAgent) |
 | **No Lunch Left Behind** | Can a small browser game tell a memorable, absurd story? | [Play](https://no-lunch-left-behind.vercel.app) · [Three.js source](https://github.com/aliiqbal24/no-lunch-left-behind) |
-| **Self-Navigating Spaceship** | What happens when small neural networks compete to survive an asteroid course? | [Simulation and network visualization](https://github.com/aliiqbal24/Self-Navigating-Spaceship) |
+| **Self-Navigating Spaceship** | What happens when small neural networks compete to survive an asteroid course? | [Try it](https://aliiqbal24.github.io/Self-Navigating-Spaceship/) · [Source](https://github.com/aliiqbal24/Self-Navigating-Spaceship) |
 | **FitPal** | What if your workout progress also helped a virtual gym buddy grow? | [React Native app and screenshots](https://github.com/aliiqbal24/FitPal---Mobile-App) |
 | **DataRepo Doctor** | How do we know a data query returned the right result, rather than just a response? | [Retrieval monitor and architecture](https://github.com/aliiqbal24/DataRepo-Doctor) |
 | **Neural Collapse Replication** | How does a classifier's learned geometry change during training? | [MNIST experiments, plots, and report](https://github.com/aliiqbal24/Neural-Collapse-Replication) |
